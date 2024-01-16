@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data-Structures-and-Algorithms
 ## Data structures
 1. Array
@@ -22,3 +23,5 @@
 1. Dynamic Fibonacci
 ## Interview Questions
 1. Common items
+=======
+
