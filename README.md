@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data-Structures-and-Algorithms
 ## Data structures
 1. Array
